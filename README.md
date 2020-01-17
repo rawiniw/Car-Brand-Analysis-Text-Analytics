@@ -1,6 +1,6 @@
 ## Team: Neha Anna John, Rawini Dias, Chris Henson, Sadhana Koneni, Satya Naren Pachigolla
 
-# Text-Analytics---Car-Brand-Analysis
+# Car Brand Analysis - Text Analytics
 
 In this assignment,our team assumed the role of an analytics consultant to a (i) brand manager, (ii) product manager and (iii) advertising manager. Our job was to give advice/insights to these individuals based on the analysis of social media conversations. The tasks are described below. We use cars as an example of a “high involvement” good (recall from class discussions that for high involvement goods, people use social media heavily for awareness building and research). 
 
